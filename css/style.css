@@ -36,4 +36,7 @@
 .prices {
   height: 30%;
   padding: 20px 0;
+.img-responsive {
+  padding-left: 66%;
+  padding-top: -60%;
 }
