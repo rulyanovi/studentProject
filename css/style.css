@@ -1,3 +1,11 @@
+.container{
+  text-align: center;
+}
+.leftimg{
+  float: left;
+margin: 7px 7px 7px 0;
+}
+.h{
 footer {
   background: #445162;
 }
