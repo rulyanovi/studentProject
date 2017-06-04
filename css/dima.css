@@ -18,6 +18,7 @@
   position: absolute;
   height: 50%;
   bottom: 0px;
+  background: #445162;
 }
 .priceFeatures {
   background: #445162;
@@ -36,7 +37,4 @@
 .prices {
   height: 30%;
   padding: 20px 0;
-.img-responsive {
-  padding-left: 66%;
-  padding-top: -60%;
 }
