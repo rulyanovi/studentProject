@@ -1,0 +1,30 @@
+.container{
+  background-color: #445162;
+  height: 200px;
+  width: 100%;
+}
+.Product{
+  margin: 0;
+  height: 100px;
+  width: 40%;
+  padding-left: 7%;
+  color: grey;
+  padding-right: 0;
+}
+.About{
+  position: relative;
+  padding-top: 100px;
+  padding-bottom: 4%;
+}
+.White{
+  margin-top: -12%;
+  float: right;
+  background-color: white;
+  height: 133px;
+  width: 300px;
+  margin-top: 10%
+  padding-right: 10%;
+}
+h1{
+  color: white;
+}
