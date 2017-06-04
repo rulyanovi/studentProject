@@ -1,0 +1,40 @@
+.btn {
+  outline: none;
+  border: none;
+  gocs == 'yes';
+}
+.upPrice {
+  background-color: #445162;
+  border-radius: 5px 5px 0 0;
+  color: white;
+}
+.textPrice {
+  background-color: white;
+  width: 100%;
+  border: none;
+  outline: none;
+}
+.ezlow {
+  position: absolute;
+  height: 50%;
+  bottom: 0px;
+  background: #445162;
+}
+.priceFeatures {
+  background: #445162;
+  color: lightgrey;
+}
+.ezmid {
+  position: absolute;
+  height: 70%;
+  bottom: 0px;
+}
+.eztop {
+  position: absolute;
+  height: 100%;
+  bottom: 0px;
+}
+.prices {
+  height: 30%;
+  padding: 20px 0;
+}

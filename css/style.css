@@ -28,3 +28,61 @@
 h1{
   color: white;
 }
+  text-align: center;
+}
+.leftimg{
+  float: left;
+margin: 7px 7px 7px 0;
+}
+.h{
+footer {
+  background: #445162;
+}
+p {
+  color: white;
+  text-align: center;
+}
+.z {
+  float: right;
+.btn {
+  outline: none;
+  border: none;
+  gocs == 'yes';
+}
+.upPrice {
+  background-color: #445162;
+  border-radius: 5px 5px 0 0;
+  color: white;
+}
+.textPrice {
+  background-color: white;
+  width: 100%;
+  border: none;
+  outline: none;
+}
+.ezlow {
+  position: absolute;
+  height: 50%;
+  bottom: 0px;
+}
+.priceFeatures {
+  background: #445162;
+  color: lightgrey;
+}
+.ezmid {
+  position: absolute;
+  height: 70%;
+  bottom: 0px;
+}
+.eztop {
+  position: absolute;
+  height: 100%;
+  bottom: 0px;
+}
+.prices {
+  height: 30%;
+  padding: 20px 0;
+.img-responsive {
+  padding-left: 66%;
+  padding-top: -60%;
+}
